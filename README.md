@@ -68,7 +68,7 @@ Average Revenue = Total Revenue / Unit Sold
 ```
 ### Data Visualization
 ---
-
+https://github.com/Peacesimon/LITA-PROJECT/blob/main/image.png
 
 
 
