@@ -66,6 +66,9 @@ EDA involves the exploring of the data to answer some questions about the Data s
 ``` MS EXCEL
 Average Revenue = Total Revenue / Unit Sold
 ```
+### Data Visualization
+---
+
 
 
 
